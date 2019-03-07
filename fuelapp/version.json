@@ -1,0 +1,10 @@
+{
+	"versionCode": 3,
+	"versionName": "1.2",
+	"releaseNotes": [
+		"- Added Google Maps: Now you can easily locate nearby petrol pumps",
+		"- Added sort by option: You can sort petrol pumps based on distance or fuel price",
+		"- Added more petrol pumps: In old version we are supporting only IOCL petrol pumps. In this version we added HPCL and BPCL petrol pumps",
+		"- Improved UI"
+	]
+}
