@@ -1,7 +1,7 @@
 {
 	"versionCode": 5,
 	"versionName": "2.0",
-	"forceUpdate": 0,
+	"forceUpdate": 1,
 	"title": "New Update Available",
 	"message": "Update your fuel app for the newest features"
 }
