@@ -1,7 +1,7 @@
 {
-	"versionCode": 3,
-	"versionName": "2.0",
-	"forceUpdate": 0,
+	"versionCode": 6,
+	"versionName": "2.0.2",
+	"forceUpdate": 1,
 	"title": "New Update Available",
 	"message": "Update your JotNews app for the newest features"
 }
