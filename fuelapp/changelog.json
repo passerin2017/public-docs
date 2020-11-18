@@ -1,7 +1,7 @@
 {
-	"versionCode": 5,
-	"versionName": "2.0.1",
+	"versionCode": 7,
+	"versionName": "2.0.2",
 	"forceUpdate": 0,
 	"title": "New Update Available",
-	"message": "Fixed some bugs"
+	"message": "Fixed the location/place search issue"
 }
